@@ -1,0 +1,1 @@
+El dato de consumo eléctrico es sólo uno, pero depende si miras una hora concreta o el acumulado del día.
